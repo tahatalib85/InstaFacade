@@ -64,14 +64,6 @@ INSTAGRAM_PASSWORD=your_super_secret_password
 > Make it professional but devastating
 ```
 
-## ✨ Superpowers at Your Fingertips
-
-- **🔍 AI Detective Mode**: Reverse search + GPT-4 Vision = No fake goes undetected!
-- **📱 Instagram Integration**: Slide into DMs, check stories, analyze posts - we do it all!
-- **🎭 Multiple Personalities**: Choose your vibe - witty, snarky, savage, or professionally brutal
-- **🧠 Elephant Memory**: Never forgets a conversation (perfect for repeat offenders!)
-- **⚡ Batch Operations**: Expose multiple fakers at once - efficiency at its finest!
-
 ## 🏗️ Under the Hood
 
 ```
